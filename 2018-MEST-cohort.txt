@@ -1,0 +1,52 @@
+App Development
+- HTML + CSS
+- Bootstrap
+- jQuery
+- JavaScript ES6 (Eloquent JavaScript)
+- Front-end development with React
+- Git
+- App development (web, mobile) with Meteor + (Blaze, React)
+- UI Component-driven development with StoryBook (React) (https://www.learnstorybook.com/) - maybe
+
+Software Engineering
+- Systems Design (get someone from a big tech company to teach this, also get real-life scenario e.g. AFRadio)
+- Software Testing
+- Agile Practices
+- Design Patterns
+- Anti-patterns
+- Refactoring
+
+App Development Resources
+- HTML + CSS
+
+- Bootstrap
+
+- jQuery
+
+- Git
+
+- JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://github.com/lukehoban/es6features#readme
+http://es6-features.org/
+https://babeljs.io/learn-es2015/
+http://eloquentjavascript.net
+
+- React
+reactjs.org
+meteor.com
+
+- Meteor
+meteor.com
+discovermeteor.com
+
+Software Engineering Resources
+- Systems Design
+
+- Software Testing
+
+- Agile Practices
+
+- Design Patterns
+sourcemaking.com
+refactoring.guru
